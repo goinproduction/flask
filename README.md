@@ -7,13 +7,6 @@ This [course](https://cloudacademy.com/course/mastering-microservices-with-pytho
 
 :metal:
 
-## Project Structure
-The Python Flask based microservices project is composed of the following 4 projects: 
-* [frontend](https://github.com/cloudacademy/python-flask-microservices/tree/master/frontend)
-* [user-service](https://github.com/cloudacademy/python-flask-microservices/tree/master/user-service)
-* [product-service](https://github.com/cloudacademy/python-flask-microservices/tree/master/product-service)
-* [order-service](https://github.com/cloudacademy/python-flask-microservices/tree/master/order-service)
-
 ## Microservices Setup and Configuration
 To launch the end-to-end microservices application perform the following:
 
